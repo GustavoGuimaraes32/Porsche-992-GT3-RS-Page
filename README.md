@@ -3,6 +3,7 @@
 ### Projeto de uma página estática que realiza a demostração do novo 911 GT3 RS
 
 ### Link Figma (Prototipação das telas): https://www.figma.com/file/CjzdoaJeVhXrWu6n0kv46Z/Untitled
+### Link para vizualizar o projeto: https://gustavoguimaraes32.github.io/Porsche-992-GT3-RS-Page/
 
 # Progresso
 
@@ -15,4 +16,4 @@
 #### Notebook
 #### Desktop 
 
-![porsche-model](https://user-images.githubusercontent.com/90704921/193847624-72a5a2df-d613-4d7a-9e51-8a9f33069ff2.png)
+![porsche-model](https://user-images.githubusercontent.com/90704921/193918122-83e4f165-1497-4124-b927-f16073e1c416.png)
