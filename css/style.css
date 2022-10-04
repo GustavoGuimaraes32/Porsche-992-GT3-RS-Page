@@ -28,7 +28,7 @@ body
 .red-line 
 {
     background: var(--Background2);
-    width: 560px;
+    width: 30%;
     height: 100%;
     position: fixed;
     right: 0;
@@ -137,17 +137,21 @@ nav img
 {
     display: flex;
     margin-top: 70px;
-    justify-content: space-between;
     text-align: center;
     color: var(--Texto2);
 }
 
-.specs-container .spec-item.white
+.spec-item:nth-child(2)
 {
-    color: white;
+    margin: 0 13%;
 }
 
 /* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= SOBRE -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= */
+
+section.about 
+{
+    height: 80vh;
+}
 
 .about-content 
 {
