@@ -1,7 +1,12 @@
-# Porsche 992 GT3 RS Page
- 
-#### Uma página de demostração do carro 911 GT3 RS da porsche
+# Projeto de uma página que realiza a demostração do novo 911 GT3 RS
 
-#### Figma (Prototipação das telas)
+### Link Figma (Prototipação das telas): https://www.figma.com/file/CjzdoaJeVhXrWu6n0kv46Z/Untitled
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FCjzdoaJeVhXrWu6n0kv46Z%2FUntitled" allowfullscreen></iframe>
+# Resposividade
+
+#### Mobile ✅
+#### Tablet 
+#### Notebook
+#### Desktop 
+
+![porsche-model](https://user-images.githubusercontent.com/90704921/193847624-72a5a2df-d613-4d7a-9e51-8a9f33069ff2.png)
