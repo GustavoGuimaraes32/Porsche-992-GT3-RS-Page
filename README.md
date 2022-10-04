@@ -16,6 +16,4 @@
 #### Notebook
 #### Desktop 
 
-
-
 ![porsche-model](https://user-images.githubusercontent.com/90704921/193918122-83e4f165-1497-4124-b927-f16073e1c416.png)
